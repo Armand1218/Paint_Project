@@ -1,0 +1,18 @@
+.d-flex {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 100px 800px;
+    width: 800px;
+    background-color: lightgray;
+}
+
+.registerbtn {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color:lightseagreen;
+    width: 200px;
+}
+
+.text-primary {
+    font-size: 50px;
+}
